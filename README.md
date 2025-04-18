@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Software Engineering student passionate about building cool and meaningful tech.<br><br>Currently learning:<br><br>- .NET Framework<br><br>- NoSQL -Databases<br><br>- LLMs (Large Language Models)<br><br>- Network Security
+I'm currently a Software Engineering student passionate about building cool and meaningful tech.<br><br>Currently learning:<br><br>- .NET Framework<br><br>- NoSQL Databases<br><br>- LLMs (Large Language Models)<br><br>- Network Security
 
 
 ## 🌐 Socials:
@@ -18,4 +18,3 @@ I'm currently a Software Engineering student passionate about building cool and 
 ---
 [![](https://visitcount.itsvg.in/api?id=Simoh23999&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
