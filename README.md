@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Software Engineering student passionate about building cool and meaningful tech.<br><br>Currently learning:<br><br>- .NET Framework<br><br>- NoSQL Databases<br><br>- LLMs (Large Language Models)<br><br>- Network Security
+I'm currently a Software Engineering student passionate about building cool and meaningful tech.<br><br>Currently learning:<br><br>- AppSec<br>
 
 
 ## 🌐 Socials:
