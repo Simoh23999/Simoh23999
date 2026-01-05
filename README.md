@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a Software Engineering student passionate about building cool and meaningful tech.<br><br>Currently learning:<br><br>- AppSec<br>
+I'm currently a Software Engineering student passionate about building cool and meaningful tech.<br><br>Currently learning:<br><br>- Rust<br>- AppSec<br>
 
 
 ## 🌐 Socials:
